@@ -1,20 +1,32 @@
 # _Tech-Blogs_
+
 Various tech blogs in no particular order...
 
 
-## All Things Distributed
-[www.allthingsdistributed.com](http://www.allthingsdistributed.com)
+<hr/>
+## [All Things Distributed](http://www.allthingsdistributed.com) ##
 
-Werner Vogels' weblog on building scalable and robust distributed systems.
+
+    Werner Vogels' weblog on building scalable and robust distributed systems.
 
 * [state-management-and-scheduling-with-ecs](http://www.allthingsdistributed.com/2015/04/state-management-and-scheduling-with-ecs.html)
 
+<hr/>
+## [Digital Digressions by Stuart Sierra](http://stuartsierra.com/2015) ##
 
-## Digital Digressions by Stuart Sierra
-[stuartsierra.com](http://stuartsierra.com/2015)
+<hr/>
+## [segment.com/blog](https://segment.com/blog/) ##
+
+* [rebuilding-our-infrastructure](https://segment.com/blog/rebuilding-our-infrastructure/)
+
+<hr/>
+## [blog.yourkarma.com](https://blog.yourkarma.com/)
+* https://blog.yourkarma.com/building-microservices-at-karma
 
 
-## segment.com/blog
+<hr/>
+## [techblog.netflix.com](http://techblog.netflix.com/)
 
-[rebuilding-our-infrastructure](https://segment.com/blog/rebuilding-our-infrastructure/)
+* http://techblog.netflix.com/2012/07/embracing-differences-inside-netflix.html
+* http://techblog.netflix.com/2013/01/optimizing-netflix-api.html
 
