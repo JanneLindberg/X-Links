@@ -6,9 +6,6 @@ An attempt to organize all my notes, links and various things before all tab bro
 
 Bookmarks... Ohhh Noooo...
 
-
-## Articles
 [Articles](Articles.md)
+[Tech-Blogs](Tech-Blogs.md)
 
-## Tech Blogs
-[Articles](Tech-Blogs.md)
