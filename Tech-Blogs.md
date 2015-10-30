@@ -7,16 +7,14 @@ Werner Vogels' weblog on building scalable and robust distributed systems.
 
 [www.allthingsdistributed.com](www.allthingsdistributed.com)
 
-* [state-management-and-scheduling-with-ecs](www.allthingsdistributed.com/2015/04/state-management-and-scheduling-with-ecs.html){:target="_blank"}
+* [state-management-and-scheduling-with-ecs](www.allthingsdistributed.com/2015/04/state-management-and-scheduling-with-ecs.html)
 
 
 ## Digital Digressions by Stuart Sierra
-[stuartsierra.com](stuartsierra.com/2015){:target="_blank"}
+[stuartsierra.com](stuartsierra.com/2015)
 
 
 ## https://segment.com/blog/
-[rebuilding-our-infrastructure](https://segment.com/blog/rebuilding-our-infrastructure/){:target="_blank"}
-
-https://blog.yourkarma.com/building-microservices-at-karma
+[rebuilding-our-infrastructure](https://segment.com/blog/rebuilding-our-infrastructure/)
 
 
